@@ -1,4 +1,4 @@
-# ChatGPT-ios-apk
+# ChatGPT-Mobile-Application
 This is a ChatGPT version for ios and android users! 
 ChatGPT App
 This is a mobile application that utilizes the power of OpenAI's ChatGPT language model. It allows users to have interactive conversations with the AI and get responses based on natural language input.
